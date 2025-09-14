@@ -38,15 +38,16 @@ else:
     
 
     st.markdown("""
+    ### Selamat Ulang Tahun Sayang Ke 19 Tahunnn 🥳🥳🎉🎉🎊🎊
 
-    ### Selamat Ulang Tahun Sayang Ke 19 Tahunnn 🥳🥳🎉🎉🎊🎊🎊🎊
+    Sayang, tahuu gaa kalau 15 september tepatnya hari ini adalah hari spesial kamuu tauuuu, aku merasa sangat beruntung bisa merayakan setiap detik bersama kamu. 
+    Terima kasih sudah menjadi bagian terbaik dalam hidupku, memberi warna baru dan kebahagiaan yang tidak pernah aku bayangkan sebelumnya.
 
-    Thank you, sayang, for being the most important part of my life. 
-    Aku merasa sangat bersyukur dipertemukan kamu dan melakukan setiap momen berharga bersama kamu. 
-    You're not just my partner, but also my best friend who is always there when I need you the most. 
+    Semoga di umur ke 19 Tahun ini diberi kesehatan yang berlimpah ruah, dilancarkan rezekinya, dan wish nya tercapai satu persatu. Aaamiin, dan semoga kamu makin cinta
+    dan sabar untuk menghadapi akuuu hehehhe. 
+    Aku janji akan selalu menemanimu, mencintaimu lebih setiap harinya, dan mendukung  setiap impian yang ingin kamu capai.
 
-    I’m so grateful that we are walking this journey together, facing challenges and celebrating all the joys. 
-    Cinta kita mungkin tidak sempurna, tapi itulah yang membuat semuanya begitu berarti. I love you more than words can say. 💖
+    Happy Birthday, my love! 🎂🎁💖
     """)
 
     
@@ -86,7 +87,11 @@ else:
     Hubungan kita mungkin sudah melalui banyak fase, tapi aku yakin kita akan terus berjalan bersama, menghadapi setiap tantangan yang ada didepan.
 
     Terima kasih telah menjadi yang terbaik dalam hidupku, sayang. Kamu adalah segalanya bagiku, dan aku sangat mencintaimu lebih dari yang bisa aku ungkapkan dengan kata-kata. 💖
+
+    Selamat Ulang Tahun yaa sayaanggg di Umur yang ke 19 Ini 😍😍🥰🥰🥳🥳🎉🎉🎊🎊.
+    LOVE UU SAYANGGGGGGG 🩷🩷🩷🩷🩷🩷🩷🩷🩷🩷🩷❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
     """)
+
 
 
 

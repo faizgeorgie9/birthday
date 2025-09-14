@@ -9,8 +9,7 @@ if 'opened' not in st.session_state:
 
 if not st.session_state.opened:
     # Halaman kosong dengan tombol "Open It"
-    st.title("Tekan Tombolnyaaa!!!")
-    st.write("Klik tombol di bawah untuk mulai...")
+    st.title("Klikk Tombolnyaaa Sayangggg!!!")
     if st.button("Open It"):
         st.session_state.opened = True
 
@@ -91,6 +90,7 @@ else:
     Selamat Ulang Tahun yaa sayaanggg di Umur yang ke 19 Ini 😍😍🥰🥰🥳🥳🎉🎉🎊🎊.
     LOVE UU SAYANGGGGGGG 🩷🩷🩷🩷🩷🩷🩷🩷🩷🩷🩷❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
     """)
+
 
 
 

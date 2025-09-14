@@ -16,6 +16,7 @@ if not st.session_state.opened:
 
 # Langkah 2: Halaman setelah tombol diklik
 else:
+    st.balloons()
     # Menampilkan gambar pertama (pacar)
     
     st.audio("luthfi-aulia-langit-favorit-official-music-video-128-ytshorts.savetube.me.mp3", format="audio/mp3", start_time=0)
@@ -37,6 +38,8 @@ else:
     
 
     st.markdown("""
+
+    ### Selamat Ulang Tahun Sayang Ke 19 Tahunnn 🥳🥳🎉🎉🎊🎊🎊🎊
 
     Thank you, sayang, for being the most important part of my life. 
     Aku merasa sangat bersyukur dipertemukan kamu dan melakukan setiap momen berharga bersama kamu. 
@@ -84,5 +87,6 @@ else:
 
     Terima kasih telah menjadi yang terbaik dalam hidupku, sayang. Kamu adalah segalanya bagiku, dan aku sangat mencintaimu lebih dari yang bisa aku ungkapkan dengan kata-kata. 💖
     """)
+
 
 
